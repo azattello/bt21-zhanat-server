@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:QjtrCGhGi0bMZx0t@bt21-zhanat-cargo.bp7hys2.mongodb.net/?retryWrites=true&w=majority&appName=bt21-zhanat-cargo",
+    "secretKey" : "mern-secret-key"
+}
